@@ -39,3 +39,8 @@ Expense Harbor simplifies expense tracking and management, offering a user-frien
 [Expense Harbor DOCUMENTATION.pdf](https://github.com/Shree-Padhy/LEARNING-PROJECT-1/files/13807734/Expense.Harbor.DOCUMENTATION.pdf)
 
 [Expense Harbor Presentation.pptx](https://github.com/Shree-Padhy/LEARNING-PROJECT-1/files/13807749/Expense.Harbor.Presentation.pptx)
+
+
+📜 License
+This project is protected under an "All Rights Reserved" license.
+No copying, modification, or distribution is permitted.
